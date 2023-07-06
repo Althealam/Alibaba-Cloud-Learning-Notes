@@ -27,7 +27,7 @@ $$
 似然函数是关于模型参数的函数，表示观察到的数据出现的可能性。对于逻辑回归模型，似然函数可以表示为：
 ![似然函数公式](https://latex.codecogs.com/png.image?\dpi{150}&space;L(\beta)&space;=&space;\prod_{i=1}^{N}&space;P(Y=y_i|X=x_i)^{y_i}&space;(1-P(Y=y_i|X=x_i))^{1-y_i})
 
-其中，![N](https://latex.codecogs.com/png.image?\dpi{150}&space;N) 是训练样本的数量，![y_i](https://latex.codecogs.com/png.image?\dpi{150}&space;y_i) 是第 ![i](https://latex.codecogs.com/png.image?\dpi{150}&space;i) 个样本的实际类别，![x_i](https://latex.codecogs.com/png.image?\dpi{150}&space;x_i) 是第 ![i](https://latex.codecogs.com/png.image?\dpi{150}&space;i) 个样本的特征向量。
+其中，$N$是训练样本的数量，$y_i$ 是第$i$个样本的实际类别，$x_i$是第$i$个样本的特征向量。
 
 最大似然估计的目标是找到能够使似然函数最大化的模型参数 ![beta](https://latex.codecogs.com/png.image?\dpi{150}&space;\beta)。通常，我们将似然函数取对数，转化为最大化对数似然函数的问题。
 
