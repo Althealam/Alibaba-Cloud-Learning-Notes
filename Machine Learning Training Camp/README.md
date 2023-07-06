@@ -18,7 +18,7 @@ $$
 z = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_nx_n
 $$
 
-在这里，$\beta_0, \beta_1, \beta_2, \ldots, \beta_n$是模型的参数，$x_1, x_2, \ldots, x_n$是输入变量的特征。
+在这里， $\beta_0, \beta_1, \beta_2, \ldots, \beta_n$ 是模型的参数， $x_1, x_2, \ldots, x_n$ 是输入变量的特征。
 
 ## 模型训练和预测
 
