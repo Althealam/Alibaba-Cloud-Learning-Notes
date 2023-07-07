@@ -84,8 +84,5 @@ XGBoost在各种预测建模任务中广泛应用，包括但不限于以下领�
 
 - GitHub仓库：[https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)
 
-- Kaggle竞赛：[https://www.kaggle.com/competitions?sortBy=grouped&group=featured&page=1&pageSize=20&category=featured](https://www.kaggle.com/competitions?sortBy=grouped&group=featured&page=1&pageSize=20&category=featured)
-
-- 《Practical XGBoost in Python》：[https://www.amazon.com/Practical-XGBoost-Python-Ted-Dunning/dp/1491965495](https://www.amazon.com/Practical-XGBoost-Python-Ted-Dunning/dp/1491965495)
 
 
